@@ -1,3 +1,3 @@
 # NLW_Esports-Web
 
-![Preview](./assets/Preview-nlw.png)
+![Preview](./src/assets/Preview-nlw.png)
