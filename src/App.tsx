@@ -1,8 +1,11 @@
 import './styles/main.css';
 
+import logoImg from "./assets/nlw-esports-logo.svg";
+
 function App(){
     return(
-        <div className="w-8 h-8 bg-black dark:bg-slate-500">
+        <div>
+            <img src={logoImg} alt="" />
         </div>
     )
 }
