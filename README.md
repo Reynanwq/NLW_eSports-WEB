@@ -4,8 +4,8 @@
 
 > Status: Developing ⚠️
 
-<h2>Technologies Used: </h2>
-<table>
+<h2 align="center">Technologies Used: </h2>
+<table align="center">
     <tr>
     <td>HTML</td>
     <td>CSS</td>
@@ -24,7 +24,6 @@
 
 </p>
 
-
 ---   
 
 <h2 align="center">Tecnologias 🛠️</h2>
@@ -39,5 +38,25 @@
 - [Prisma](https://www.prisma.io)
 
    </p>
+
+---
+
+
+---
+
+<h2 align="center">Como Contribuir 💪</h2>
+
+   ```
+   - Fork o projeto 
+
+   - Cria uma nova branch com suas mudanças:
+   $ git checkout -b my-feature
+
+   - Salve suas mudanças e crie uma mensagem de commit falando o que fez:
+   $ git commit -m "feature: My new feature"
+
+   - Envie suas mudanças:
+   $ git push origin my-feature
+   ```
 
 ---
