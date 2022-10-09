@@ -4,9 +4,13 @@ import logoImg from "./assets/nlw-esports-logo.svg";
 
 function App(){
     return(
-        <div className="max-w-[1344px] mx-auto flex flex-col items-center">
+        <div className="max-w-[1344px] mx-auto flex flex-col items-center my-20">
             <img src={logoImg} alt="" />
+            <h1 className="text-6xl text-white font-black mt-20">
+                seu <span className="text-transparent bg-nlw-gradient bg-clip-text">duo</span> está aqui.
+            </h1>
         </div>
+
     )
 }
 
