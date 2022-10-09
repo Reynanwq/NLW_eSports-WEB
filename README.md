@@ -10,9 +10,12 @@
     <td>HTML</td>
     <td>CSS</td>
     <td>TypeScript</td>
-    <td>React</td>
+    <td>ReactJS</td>
+    <td>React Native</td>
     <td>Vite</td>
-    <td>Tailwind</td>
+    <td>TailWindCSS</td>
+    <td>Expo</td>
+    <td>Prisma</td>
     </tr>
 </table>
 
